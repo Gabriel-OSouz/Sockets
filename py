@@ -1,1 +1,0 @@
-Socket simples em python
