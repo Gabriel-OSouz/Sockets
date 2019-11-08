@@ -1,5 +1,5 @@
 impot socket
-ip = raw_imput('Coloque o IP: ')
+ip = raw_input('Coloque o IP: ')
 portas = []
 
 for porta in portas:
