@@ -11,3 +11,4 @@ for porta in portas:
 
 print "PortScan finalizado com sucesso"
 
+#Código em finalização...
