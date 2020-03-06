@@ -1,2 +1,2 @@
 # Sockets
-Socket simples em python para aprendizado
+Socket simples em python/C para aprendizado
